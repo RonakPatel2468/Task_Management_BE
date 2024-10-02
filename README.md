@@ -36,5 +36,3 @@ Develop a Role-Based Task Management application with roles and permissions. Adm
 - **Rate Limiting and Security**: 
   - Implement rate limiting for login attempts to prevent brute-force attacks.
   - Use Helmet.js for added security headers in Express.
-
-## Folder Structure
